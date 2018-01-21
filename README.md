@@ -4,7 +4,7 @@ Yiricoin integration/staging tree
 http://www.yiricoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Yiricoin Developers
+Copyright (c) 2011-2018 Yiricoin Developer
 
 What is Yiricoin?
 ----------------
@@ -12,14 +12,14 @@ What is Yiricoin?
 Yiricoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - ~45 million total coins
 
 The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Yiricoin client sofware, see http://www.yiricoin.org.
+the Yiricoin client sofware, see http://www.yiricoin.com.
 
 License
 -------
@@ -45,7 +45,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/yiricoin-project/yiricoin/tags) are created
+completely stable. [Tags](https://github.com/bradlyw/yiricoin/tags) are created
 regularly to indicate new official, stable release versions of Yiricoin.
 
 Testing
